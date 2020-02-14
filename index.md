@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season2/master/sewol.png">
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season4/master/gochang.png">
 
 <br>
 
