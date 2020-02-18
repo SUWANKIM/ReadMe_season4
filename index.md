@@ -132,7 +132,7 @@
 
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="18" height="18">도시와 농촌의 <b>언어</b>는 서로 다릅니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;다른 가치관과 차이를 이해하려면 서로간의 <b>존중</b>이 병행 되어야 합니다.&nbsp;&nbsp;&nbsp;&nbsp;허클베리핀과 함께 도시-농촌 간 갈등 해소를 위한 첫 걸음을 같이 걸어주세요.</p>
+        width="18" height="18">도시와 농촌의 <b>언어</b>는 서로 다릅니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;언어와 가치관의 다름을 이해하려면 서로간의 <b>존중</b>이 병행 되어야 합니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;허클베리핀과 함께 도시-농촌 간 소통의 첫 걸음을 걸어주세요.</p>
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
         width="18" height="18">여행중 음주는 가급적 노동이 끝난 후 해주세요. <br>&nbsp;&nbsp;&nbsp;&nbsp; 일하기 전날(13일) 무리한 음주는 다음날 노동에 영향을 줄 수 있습니다. <br>&nbsp;&nbsp;&nbsp;&nbsp; (노동 끝난 후 만취 가능) </p>
