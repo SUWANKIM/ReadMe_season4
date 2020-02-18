@@ -182,4 +182,4 @@
 
 
 
-<h6>Copyright ⓒ HuckleberryPin 2019 All rights reserved.</h6>
+<h6>Copyright ⓒ HuckleberryPin 2020 All rights reserved.</h6>
