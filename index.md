@@ -98,24 +98,23 @@
 
 ## Q. 돌아가는 날(2일) 픽업은 몇 시인가요?
 
-- 충주공용버스터미널로 가는 단체 차량은 14시에 제공됩니다.
-- 충주공용버스터미널에서 센트럴터미널로 가는 버스는 50분 간격으로 운행됩니다 :)
+- 고창버스터미널로 가는 단체 차량은 13시에 제공됩니다.
+- 고창버스터미널에서 센트럴터미널로 가는 버스는 50분 간격으로 운행됩니다 :)
+- 센트럴터미널로 가는 막차는 19:00입니다.
 - 자차 이용하시는 분들은 편한 시간에 이동하시면 됩니다.
-- 
 
 <br>
 
 ## Q. 주변에 관광지나 대중교통은 활발한가요?
 
-- 충주시는 <b>미륵대원지</b>, <b>청룡사지</b> 등 문화/역사 관광지가 많은 지역입니다.✨
-- 집에서 1km 떨어진 곳에 마을버스가 다니지만 하루 두번(13시,18시) 운행합니다. 
-- 버스는 18시에 끊기니, 필요한 것들은 미리 사 오는 것을 권합니다.
+- 고창군은 <b>고창읍성</b>, <b>석정온천</b>, <b>선운산</b> 등 문화/역사 관광지가 많은 지역입니다.✨
+- 대부분의 관광지는 고창 시내에서 대중교통으로 1시간 내로 방문 가능합니다. 
 
 <br>
 
 ## Q. 여행 중 다치면 어떻게 하나요?
 
-- 마을회관과 농가에 상비약이 비치되어 있습니다. 조금이라도 다치면 담당자에게 바로 알려주세요.
+- 노동 현장과 농가에 상비약이 비치되어 있습니다. 조금이라도 다치면 담당자에게 바로 알려주세요.
 - 허클베리핀은 [관광보증보험](https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/insurance.png)에 가입 되어 있습니다. (다쳐도 된다는 말 아님..)
 
 <br>
@@ -128,15 +127,15 @@
 
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="18" height="18">농장주가 주는 <b>돈 또는 어떠한 작물도 받지 마세요.</b> <br>&nbsp;&nbsp;&nbsp;&nbsp;7시간 노동의 대가는 오직 이틀의 숙박과 음식입니다.</p>
+        width="18" height="18">농장주가 주는 <b>돈 또는 어떠한 작물도 받지 마세요.</b> <br>&nbsp;&nbsp;&nbsp;&nbsp;8시간 노동의 대가는 오직 이틀의 숙박과 음식입니다.</p>
         
 
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="18" height="18">사과의 품종은 <b>부사</b>와 <b>홍로</b>입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;사과 수확 방식은 농가마다 다릅니다:)<br>&nbsp;&nbsp;&nbsp;&nbsp;농가의 수확 방식을 따라주세요.</p>
+        width="18" height="18">딸기 수확 방식은 농가마다 다릅니다:)<br>&nbsp;&nbsp;&nbsp;&nbsp;농가의 수확 방식을 따라주세요.</p>
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="18" height="18">여행중 음주는 가급적 노동이 끝난 후 해주세요. <br>&nbsp;&nbsp;&nbsp;&nbsp; 일하기 전날(31일) 무리한 음주는 다음날 노동에 영향을 줄 수 있습니다. <br>&nbsp;&nbsp;&nbsp;&nbsp; (노동 끝난 후 만취 가능) </p>
+        width="18" height="18">여행중 음주는 가급적 노동이 끝난 후 해주세요. <br>&nbsp;&nbsp;&nbsp;&nbsp; 일하기 전날(13일) 무리한 음주는 다음날 노동에 영향을 줄 수 있습니다. <br>&nbsp;&nbsp;&nbsp;&nbsp; (노동 끝난 후 만취 가능) </p>
         
         
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
@@ -144,11 +143,9 @@
         
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-       width="18" height="18">huckleberryPin_26(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 <b>엄청난 선물</b>을 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#허클베리핀 #huckleberryPin #클리핀 #소셜벤처 #스타트업 #충주시</b><br>&nbsp;&nbsp;&nbsp;&nbsp;(여행 마지막 날 담당자에게 꼭 보여주세요.)</p>        
-
+       width="18" height="18">huckleberryPin_26(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 <b>엄청난 선물</b>을 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#허클베리핀 #huckleberryPin #클리핀 #소셜벤처 #스타트업 #고창군</b><br>&nbsp;&nbsp;&nbsp;&nbsp;(여행 마지막 날 담당자에게 꼭 보여주세요.)</p>        
 
 <br>
-
 
 ## 우리 같이 ‘가치’를 만들어가는 소중한 시간 함께 할래요?
 
@@ -162,12 +159,11 @@
 
 <img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season2/master/logooooooo.png">
 
-- 중소벤처기업부가 <b>seed money</b>를 투자 했습니다.<br>
-- 한국사회적기업진흥원이 <b>seed money</b>를 투자 했습니다.<br>
-- 강원창조경제혁신센터가 <b>seed money</b>를 투자 했습니다.<br>
+- 중소벤처기업부가 <b>seed money</b>를 지원 했습니다.<br>
+- 한국사회적기업진흥원이 <b>seed money</b>를 지원 했습니다.<br>
+- 강원창조경제혁신센터가 <b>seed money</b>를 지원 했습니다.<br>
 - 기술보증기금에서 <b>소셜벤처</b> 인증을 받았습니다.<br>
 - 기술보증기금에서 <b>기술평가 B등급</b>을 받았습니다.<br>
-- 충주시와 <b>상호협력교류(MOU)</b>를 체결했습니다.
 - 국회(입법부)공무원노동조합과 <b>상호협력교류(MOU)</b>를 체결했습니다.
 - 전라북도교육청공무원노동조합과 <b>상호협력교류(MOU)</b>를 체결했습니다.
 
