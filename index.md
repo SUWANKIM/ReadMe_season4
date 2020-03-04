@@ -147,11 +147,11 @@
        width="18" height="18">huckleberryPin_26(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;공유해 주신 분들께 <b>엄청난 선물</b>을 드립니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#허클베리핀 #huckleberryPin #클리핀 #소셜벤처 #스타트업 #고창군</b><br>&nbsp;&nbsp;&nbsp;&nbsp;(여행 마지막 날 담당자에게 꼭 보여주세요.)</p>        
 
 <br>
-
-## 우리 같이 ‘가치’를 만들어가는 소중한 시간 함께 할래요?
+<br>
 
 <img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season4/master/p1.png">
-
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season4/master/p2.png">
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season4/master/p3.png">
 
 <br><br>
 
