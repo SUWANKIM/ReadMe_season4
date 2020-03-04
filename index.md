@@ -160,14 +160,6 @@
 
 <img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season4/master/partners.png">
 
-- 중소벤처기업부가 <b>seed money</b>를 지원 했습니다.<br>
-- 한국사회적기업진흥원이 <b>seed money</b>를 지원 했습니다.<br>
-- 강원창조경제혁신센터가 <b>seed money</b>를 지원 했습니다.<br>
-- 기술보증기금에서 <b>소셜벤처</b> 인증을 받았습니다.<br>
-- 기술보증기금에서 <b>기술평가 B등급</b>을 받았습니다.<br>
-- 국회(입법부)공무원노동조합과 <b>상호협력교류(MOU)</b>를 체결했습니다.
-- 전라북도교육청공무원노동조합과 <b>상호협력교류(MOU)</b>를 체결했습니다.
-
 <br>
 
 ## Contact Us
