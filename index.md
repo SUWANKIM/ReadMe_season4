@@ -158,7 +158,7 @@
 
 ## 허클베리핀의 파트너들
 
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season2/master/logooooooo.png">
+<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season4/master/partners.png">
 
 - 중소벤처기업부가 <b>seed money</b>를 지원 했습니다.<br>
 - 한국사회적기업진흥원이 <b>seed money</b>를 지원 했습니다.<br>
